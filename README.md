@@ -1,3 +1,7 @@
+## Burger Builder
+This is a simple single page app which lets you create a burger for you.
+In later stages order placing functionalities and authentication will be added to it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
